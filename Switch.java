@@ -1,3 +1,5 @@
+// Program for switch case
+
 import java.util.Scanner;
 
 class Switch{
